@@ -1,4 +1,4 @@
-name: vprofile actions
+name: vprofile actions automated job
 on:
   push:
     branches:
